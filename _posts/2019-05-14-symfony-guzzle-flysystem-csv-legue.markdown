@@ -720,6 +720,6 @@ class ArticleManager
 
 Your command now is ready to download, process and store CSV file content into the database.
 
-Just execute in you console (you should be placed in project's directory root):
+Just execute in your console the command (you should be placed in project's directory root):
 
 `php bin/console csv:files -f  <filename>`
