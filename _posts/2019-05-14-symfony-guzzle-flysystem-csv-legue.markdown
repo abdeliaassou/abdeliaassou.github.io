@@ -1,5 +1,7 @@
-# Download, process and store CSV files using Symfony
-## Or how you can use Guzzle, Flysystem, League CSV and Doctrine with Symfony
+---
+layout: post
+title:  "Download, process and store CSV files using Symfony"
+---
 
 Many developers have faced the situation in which they need to access to a customer's ftp server and download some CSV files in order to process and store the content into the database.
 
