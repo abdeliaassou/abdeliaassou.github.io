@@ -10,8 +10,8 @@ In this article, I will show you how you can do that using Symfony with some use
 This is the list of bundles I intentend to use:
 
 1. Symfony GuzzleBundle: it's a bundle that integrates Guzzle into Symfony. 
-https://github.com/8p/EightPointsGuzzleBundle   
-http://docs.guzzlephp.org/en/stable/
+(https://github.com/8p/EightPointsGuzzleBundle)
+(http://docs.guzzlephp.org/en/stable/)
 
 2. Flysystem bundle: This bundle integrates Flysystem into Symfony.
 https://github.com/thephpleague/flysystem-bundle   
