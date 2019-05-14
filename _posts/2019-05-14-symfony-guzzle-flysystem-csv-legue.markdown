@@ -11,14 +11,14 @@ This is the list of bundles I intentend to use:
 
 1. Symfony GuzzleBundle: it's a bundle that integrates Guzzle into Symfony. 
 <a href="https://github.com/8p/EightPointsGuzzleBundle">https://github.com/8p/EightPointsGuzzleBundle</a>
-(http://docs.guzzlephp.org/en/stable/)
+<a href="http://docs.guzzlephp.org/en/stable/">http://docs.guzzlephp.org/en/stable/</a>
 
 2. Flysystem bundle: This bundle integrates Flysystem into Symfony.
-https://github.com/thephpleague/flysystem-bundle   
-https://flysystem.thephpleague.com/docs/
+<a href="https://github.com/thephpleague/flysystem-bundle">https://github.com/thephpleague/flysystem-bundle</a>
+<a href="https://flysystem.thephpleague.com/docs/">https://flysystem.thephpleague.com/docs/</a>
 
 3. League/CSV: With this bundle you can deal with CSV data without complexity.
-https://csv.thephpleague.com/
+<a href="https://csv.thephpleague.com/">https://csv.thephpleague.com/</a>
 
 
 Install and configure bundle:
